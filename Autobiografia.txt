@@ -1,0 +1,6 @@
+Nombre: Pabalo Abal
+Edad: 56
+EC: Casado
+LAB:HAPSA
+FECHA: 01/01/2023
+MASCOTAS: PERROS
