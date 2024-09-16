@@ -10,3 +10,5 @@ Documentación y Mantenimiento:
 
 UML es útil para la documentación de sistemas, proporcionando una representación visual de la arquitectura, los procesos y los flujos de datos. Esto es valioso para el mantenimiento y la evolución de sistemas, ya que los diagramas pueden servir como referencia para futuros desarrolladores.
 Análisis y Diseño:
+
+Agregado en biografia madre para ponerlo en main que ya no es mas master
