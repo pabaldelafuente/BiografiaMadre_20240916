@@ -12,3 +12,5 @@ UML es útil para la documentación de sistemas, proporcionando una representaci
 Análisis y Diseño:
 
 Agregado en biografia madre para ponerlo en main que ya no es mas master
+
+Retrazado
