@@ -15,3 +15,4 @@ Agregado en biografia madre para ponerlo en main que ya no es mas master
 
 Retrazado modificado en backup dos
 que esta pasando
+Agrego la madre
